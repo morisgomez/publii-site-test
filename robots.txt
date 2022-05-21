@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://morisgomez.github.io/publii-site-test/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Puro Reggaeton",
+    "description": "",
+    "home_page_url": "https://morisgomez.github.io/publii-site-test",
+    "feed_url": "https://morisgomez.github.io/publii-site-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Moris Gomez"
+    },
+    "items": [
+    ]
+}
